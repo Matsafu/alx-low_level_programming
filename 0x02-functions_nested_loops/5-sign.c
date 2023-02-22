@@ -2,7 +2,6 @@
 
 /**
  * print_sign - a function that prints the sign of a number.
- * @n: the number to be checked 
  * Return: 1 for a positive number, -1 for a negative number.
  *
  */
