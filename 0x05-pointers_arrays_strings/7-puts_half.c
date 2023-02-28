@@ -2,7 +2,7 @@
 
 /**
  * puts_half - prints half of a string
- * _putchar - writes a single character to stdout.
+ * putchar - writes a single character to stdout.
  * @str: The string to print
  * Return: void
  */
@@ -28,7 +28,7 @@ void puts_half(char *str)
 
 	for (; k > j; k++)
 	{
-	_putchar(str[k]);
+	putchar(str[k]);
 	}
-	_putchar('\n');
+	putchar('\n');
 }
